@@ -30,7 +30,7 @@ I translate complex datasets into high-impact business strategies. With a backgr
 *Built a comparative analysis to pinpoint the "productivity tipping point" in digital habits.*
 - **Outcome:** Proven **-0.80 correlation** between high usage and mental wellness; identified a critical performance drop-off at the 5.5-hour mark.
 - **Innovation:** Developed identical, synced reports in **Tableau and Power BI** to prove tool-agnostic proficiency.
-- 🔗 [Tableau Dashboard](PASTE_YOUR_LINK) | 🔗 [GitHub Repo](PASTE_LINK)
+- 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/gopal.sarkar/viz/SocialMediaAddictionDashboard_17734785612930/Dashboard1) | 🔗 [GitHub Repo](PASTE_LINK)
 
 #### 💳 Revenue Recovery: RFM Customer Segmentation
 *Engineered a Python-based model to segment a 1,000-user database and stop customer churn.*
