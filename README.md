@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gopal Sarkar
 
-### 🛠️ Mechanical Engineer | Data Analyst | Logic-Driven Storyteller
+###  Data Analyst | Logic-Driven Storyteller | 🛠️ Mechanical Engineer
 I translate complex datasets into high-impact business strategies. With a background in **Mechanical Engineering**, I bring a rigorous analytical framework to the world of data—specializing in full-stack analytics from SQL architecture to advanced BI visualization.
 
 ---
