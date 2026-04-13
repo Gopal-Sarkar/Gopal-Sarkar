@@ -38,7 +38,7 @@ I translate complex datasets into high-impact business strategies. With a backgr
 *Built a Python-based RFM model to segment a 1,000-customer database and identify churn risk.*
 - **Outcome:** Segmented all 1,000 customers across 5 behavioral groups. Identified **207 "At Risk" customers (20.7%)** with over **₹53.5L in recoverable revenue**, and **273 "Hibernating" customers** as the largest re-engagement opportunity from a total transaction base of ₹2.3Cr.
 - **Technique:** Automated Recency, Frequency, and Monetary scoring using Python (Pandas, qcut quintile scoring), with custom segment labeling logic and visualization via Matplotlib and Seaborn.
-- 🔗 [GitHub Repo](PASTE_LINK)
+- 🔗 [GitHub Repo](https://github.com/Gopal-Sarkar/RFM-Customer-Segmentation-Python)
 
 ---
 
