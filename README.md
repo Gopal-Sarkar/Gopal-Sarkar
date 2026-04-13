@@ -1,15 +1,15 @@
 # Hi 👋, I'm Gopal Sarkar
+### Data Analyst | Logic-Driven Storyteller | 🛠️ Mechanical Engineer
 
-###  Data Analyst | Logic-Driven Storyteller | 🛠️ Mechanical Engineer
-I translate complex datasets into high-impact business strategies. With a background in **Mechanical Engineering**, I bring a rigorous analytical framework to the world of data—specializing in full-stack analytics from SQL architecture to advanced BI visualization.
+I translate complex datasets into high-impact business strategies. With a background in **Mechanical Engineering**, I bring a rigorous analytical framework to the world of data — specializing in full-stack analytics from SQL architecture to advanced BI visualization.
 
 ---
 
 ### 🚀 Technical Expertise
-- 📊 **Strategic Data Analysis:** Focused on identifying revenue leakage and optimizing operational workflows.
-- 🐍 **Technical Stack:** Advanced Python (Pandas, NumPy) and optimized SQL querying for large-scale databases.
-- 📈 **Business Intelligence:** Expert in creating dual-platform ecosystems using both **Tableau and Power BI**.
-- ⚙️ **Engineering Mindset:** Applying 1st-principle thinking to solve commercial data bottlenecks.
+- 📊 **Strategic Data Analysis:** Focused on identifying revenue patterns and optimizing operational workflows.
+- 🐍 **Technical Stack:** Python (Pandas, NumPy, Matplotlib, Seaborn) and SQL querying for relational databases.
+- 📈 **Business Intelligence:** Experienced in building dual-platform dashboards using both **Tableau and Power BI**.
+- ⚙️ **Engineering Mindset:** Applying first-principle thinking to solve real-world data problems.
 - 📍 Based in Alipurduar, West Bengal, India.
 
 ---
@@ -20,40 +20,40 @@ I translate complex datasets into high-impact business strategies. With a backgr
 | :--- | :--- | :--- |
 | **SQL (MySQL)** | **Tableau & Power BI** | **GitHub** |
 | **Python** | **Advanced Excel** | **Google Colab** |
-| **NumPy/Pandas** | **RFM & Statistical Modeling** | **Jupyter** |
+| **NumPy / Pandas** | **RFM Segmentation** | **Jupyter Notebook** |
 
 ---
 
 ### 📂 Strategic Portfolio
 
 #### 📱 Cross-Platform Behavioral Study: Student Social Media Addiction
-*Built a comparative analysis to pinpoint the "productivity tipping point" in digital habits.*
-- **Outcome:** Proven **-0.80 correlation** between high usage and mental wellness; identified a critical performance drop-off at the 5.5-hour mark.
-- **Innovation:** Developed identical, synced reports in **Tableau and Power BI** to prove tool-agnostic proficiency.
+*Built a comparative analysis to study the impact of social media on student wellness and academic performance.*
+- **Outcome:** Confirmed a **-0.95 correlation** between addiction score and mental health — a near-perfect inverse relationship. High School students average only **5.46 hrs of sleep per night**, the most vulnerable group across all academic levels. India and USA lead globally in cumulative addiction scores.
+- **Innovation:** Developed identical, synced dashboards in both **Tableau and Power BI** to demonstrate tool-agnostic proficiency across 705 students from multiple countries.
 - 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/gopal.sarkar/viz/SocialMediaAddictionDashboard_17734785612930/Dashboard1) | 🔗 [GitHub Repo](https://github.com/Gopal-Sarkar/Social-Media-Addiction-Analysis)
 
+---
+
 #### 💳 Revenue Recovery: RFM Customer Segmentation
-*Engineered a Python-based model to segment a 1,000-user database and stop customer churn.*
-- **Outcome:** Identified **40% 'At Risk' users**, uncovering a potential recovery of $9M in stagnant revenue.
-- **Technique:** Automated scoring for Recency, Frequency, and Monetary values using Python.
+*Built a Python-based RFM model to segment a 1,000-customer database and identify churn risk.*
+- **Outcome:** Segmented all 1,000 customers across 5 behavioral groups. Identified **207 "At Risk" customers (20.7%)** with over **₹53.5L in recoverable revenue**, and **273 "Hibernating" customers** as the largest re-engagement opportunity from a total transaction base of ₹2.3Cr.
+- **Technique:** Automated Recency, Frequency, and Monetary scoring using Python (Pandas, qcut quintile scoring), with custom segment labeling logic and visualization via Matplotlib and Seaborn.
 - 🔗 [GitHub Repo](PASTE_LINK)
+
+---
 
 #### 🏠 Market Intelligence: Real Estate Trend Analysis
-*Visualizing a decade of transactions (526k+ rows) to guide municipal development.*
-- **Outcome:** Mapped a **$40B surge in 2020** and identified regional growth hubs for infrastructure investment.
-- **Technique:** Geospatial mapping and parameter-driven financial lens in Tableau.
+*Analyzing 526,000+ property transactions across 50 Connecticut towns (2011–2021) to guide investment and infrastructure decisions.*
+- **Outcome:** Identified a confirmed **$40.29B surge in sales volume in 2020** — the highest in the entire 11-year dataset — with Single Family properties dominating at 273,000+ transactions. Mapped regional hotspots for targeted development planning.
+- **Technique:** Year-over-year trend analysis, property-type breakdown, and geospatial visualization in Tableau across a large-scale real estate dataset.
 - 🔗 [Tableau Dashboard](PASTE_YOUR_LINK) | 🔗 [GitHub Repo](PASTE_LINK)
 
-#### 🛒 Operational Audit: Amazon Logistics & Sales
-*Merging disconnected data streams into a unified executive decision-support system.*
-- **Outcome:** Isolated regional delivery bottlenecks by calculating "Fast Track" achievement rates across 5 territories.
-- **Technique:** Advanced XLOOKUP modeling and interactive slicer-based UI in Excel.
-- 🔗 [GitHub Repo](PASTE_LINK)
+---
 
 #### 🗄️ Database Architecture: Retail Intelligence System
-*Constructed a relational database from the ground up to solve inventory and engagement gaps.*
-- **Outcome:** Developed queries to automatically isolate "Dead Stock" and identify the most engaged multi-action customers.
-- **Technique:** Advanced Subqueries, Multi-table Joins, and Set Operations in MySQL.
+*Constructed a normalized relational database from the ground up to solve inventory visibility and customer engagement gaps.*
+- **Outcome:** Built a complete 40+ query solution library across 6 progressive levels — from basic filtering to correlated subqueries and set operations — enabling automated identification of dead stock and high-value customers.
+- **Technique:** Advanced Subqueries, Multi-table JOINs (INNER, LEFT, RIGHT), Aggregations, GROUP BY, and Set Operations in MySQL across a 6-table retail schema (customers, orders, products, order_items, payments, product_reviews).
 - 🔗 [GitHub Repo](PASTE_LINK)
 
 ---
