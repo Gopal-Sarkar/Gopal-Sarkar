@@ -46,7 +46,7 @@ I translate complex datasets into high-impact business strategies. With a backgr
 *Analyzing 526,000+ property transactions across 50 Connecticut towns (2011–2021) to guide investment and infrastructure decisions.*
 - **Outcome:** Identified a confirmed **$40.29B surge in sales volume in 2020** — the highest in the entire 11-year dataset — with Single Family properties dominating at 273,000+ transactions. Mapped regional hotspots for targeted development planning.
 - **Technique:** Year-over-year trend analysis, property-type breakdown, and geospatial visualization in Tableau across a large-scale real estate dataset.
-- 🔗 [Tableau Dashboard](PASTE_YOUR_LINK) | 🔗 [GitHub Repo](PASTE_LINK)
+- 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/gopal.sarkar/viz/Real_Estate_Insights_Dashboard/Dashboard1) | 🔗 [GitHub Repo](https://github.com/Gopal-Sarkar/Real-Estate-Trend-Analysis-Tableau)
 
 ---
 
