@@ -61,3 +61,4 @@ I translate complex datasets into high-impact business strategies. With a backgr
 ### 📫 Let's Connect
 - **LinkedIn:** [Gopal Sarkar](https://www.linkedin.com/in/gopal-sarkar-analyst/)
 - **Visualization Hub:** [Tableau Public Profile](https://public.tableau.com/app/profile/gopal.sarkar/vizzes)
+- **Email:** gopalapd06@gmail.com
