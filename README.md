@@ -7,7 +7,7 @@ I translate complex datasets into high-impact business strategies. With a backgr
 
 ### 🚀 Technical Expertise
 - 📊 **Strategic Data Analysis:** Focused on identifying revenue patterns and optimizing operational workflows.
-- 🐍 **Technical Stack:** Python (Pandas, NumPy, Matplotlib, Seaborn) and SQL querying for relational databases.
+- 🐍 **Technical Stack:** Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy) and SQL querying for relational databases.
 - 📈 **Business Intelligence:** Experienced in building dual-platform dashboards using both **Tableau and Power BI**.
 - ⚙️ **Engineering Mindset:** Applying first-principle thinking to solve real-world data problems.
 - 📍 Based in Alipurduar, West Bengal, India.
@@ -20,11 +20,19 @@ I translate complex datasets into high-impact business strategies. With a backgr
 | :--- | :--- | :--- |
 | **SQL (MySQL)** | **Tableau & Power BI** | **GitHub** |
 | **Python** | **Advanced Excel** | **Google Colab** |
-| **NumPy / Pandas** | **RFM Segmentation** | **Jupyter Notebook** |
+| **NumPy / Pandas / SciPy** | **RFM Segmentation** | **Jupyter Notebook** |
 
 ---
 
 ### 📂 Strategic Portfolio
+
+#### 🔐 Fraud & Risk Intelligence: UPI Transaction Risk and Performance Analysis
+*Analyzed 1,00,000 UPI transactions across 7 linked datasets to uncover fraud patterns, payment failure causes, and merchant risk exposure on India's largest digital payment network.*
+- **Outcome:** Proved statistically that rooted devices carry a **20.69% fraud rate versus just 1.39%** on regular devices (Z = 76.39, p < 0.0001), a 15x risk multiplier and the single biggest preventable risk on the platform. Confirmed the overall **2% fraud rate sits significantly above the 1% industry baseline** (Z = 22.59, p < 0.0001), and flagged **22 high-risk merchants** out of 500 for weekly review.
+- **Technique:** End-to-end pipeline across Excel (data validation and quality logging), Python (Pandas, Matplotlib, Seaborn, SciPy for 5 statistical tests including Z-tests, Chi-Square, and One-Way ANOVA), and Power BI (3-page interactive dashboard with region, device, year and channel slicers).
+- 🔗 [GitHub Repo](PASTE_LINK)
+
+---
 
 #### 📱 Cross-Platform Behavioral Study: Student Social Media Addiction
 *Built a comparative analysis to study the impact of social media on student wellness and academic performance.*
