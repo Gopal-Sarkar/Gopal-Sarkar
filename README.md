@@ -62,7 +62,7 @@ I translate complex datasets into high-impact business strategies. With a backgr
 *Constructed a normalized relational database from the ground up to solve inventory visibility and customer engagement gaps.*
 - **Outcome:** Built a complete 40+ query solution library across 6 progressive levels — from basic filtering to correlated subqueries and set operations — enabling automated identification of dead stock and high-value customers.
 - **Technique:** Advanced Subqueries, Multi-table JOINs (INNER, LEFT, RIGHT), Aggregations, GROUP BY, and Set Operations in MySQL across a 6-table retail schema (customers, orders, products, order_items, payments, product_reviews).
-- 🔗 [GitHub Repo](PASTE_LINK)
+- 🔗 GitHub Repo: coming soon
 
 ---
 
