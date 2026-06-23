@@ -30,7 +30,7 @@ I translate complex datasets into high-impact business strategies. With a backgr
 *Analyzed 1,00,000 UPI transactions across 7 linked datasets to uncover fraud patterns, payment failure causes, and merchant risk exposure on India's largest digital payment network.*
 - **Outcome:** Proved statistically that rooted devices carry a **20.69% fraud rate versus just 1.39%** on regular devices (Z = 76.39, p < 0.0001), a 15x risk multiplier and the single biggest preventable risk on the platform. Confirmed the overall **2% fraud rate sits significantly above the 1% industry baseline** (Z = 22.59, p < 0.0001), and flagged **22 high-risk merchants** out of 500 for weekly review.
 - **Technique:** End-to-end pipeline across Excel (data validation and quality logging), Python (Pandas, Matplotlib, Seaborn, SciPy for 5 statistical tests including Z-tests, Chi-Square, and One-Way ANOVA), and Power BI (3-page interactive dashboard with region, device, year and channel slicers).
-- 🔗 [GitHub Repo] (https://github.com/Gopal-Sarkar/UPI-Transaction-Risk-Analysis)
+- 🔗 [GitHub Repo](https://github.com/Gopal-Sarkar/UPI-Transaction-Risk-Analysis)
 
 ---
 
